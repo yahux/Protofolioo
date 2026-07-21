@@ -1,0 +1,6 @@
+{
+  "name": "Microchip Portfolio",
+  "description": "An interactive, high-tech dark-themed portfolio website centered around a glowing, fixed-position microchip processor that reacts dynamically as the user scrolls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
